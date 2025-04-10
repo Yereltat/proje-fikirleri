@@ -2,9 +2,9 @@
 Bu dosya, ekip içerisindeki çeşitli proje fikirlerimizi barındırıyor.
 
 ---
-## 1. Kişiselleştirilmiş Yapay Zekâ ile Not Defteri Uygulaması
+## 1. Yapay Zekâ  Asistanlı Not Defteri Uygulaması
 
-**Kategori:** Yapay Zekâ, Kişiselleştirme, Not Alma Araçları  
+**Kategori:** Yapay Zekâ, Kişiselleştirme, Asistan, Not Alma Araçları  
 **Özet:**  
 Kullanıcının notlarını analiz ederek onu tanıyan, fikirler öneren ve beyin fırtınası yapabilen kişiselleştirilmiş yapay zekâ destekli not alma uygulaması. Sarı yapışkan notlardan oluşan sade bir arayüzle sunulacak.
 
