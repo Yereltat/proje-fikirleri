@@ -17,11 +17,7 @@ Kullanıcının notlarını analiz ederek onu tanıyan, fikirler öneren ve beyi
 - Basit ama akılda kalıcı bir kullanıcı deneyimi sunmak  
 
 **Fikir Sahibi:**  
-- Kağan ARIBAŞ
-
-## 2.
-...
-
+Kağan ARIBAŞ
 ---
 
 ## Nasıl Katkı Sağlayabilirsin?
