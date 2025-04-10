@@ -18,6 +18,34 @@ Kullanıcının notlarını analiz ederek onu tanıyan, fikirler öneren ve beyi
 
 **Fikir Sahibi:**  
 - Kağan ARIBAŞ
+
+## 2. AI Destekli Metin Tabanlı Oyun Platformu
+
+### Kategori
+Yapay Zeka, Oyun Geliştirme, Metin Tabanlı Oyunlar, Web Tabanlı Uygulamalar
+
+### Proje Tanımı
+Bu projede, oyuncuların etkileşimli bir oyun deneyimi yaşayabilmesi için yapay zeka destekli, metin tabanlı bir oyun platformu geliştirilmektedir. Kullanıcılar, farklı oyun türlerini seçebilecekler ve bu türlerde karşılarına çıkan olaylara tepki verecekler. Bu oyunlar, AI tarafından yönlendirilecek ve oyuncuların verdiği yanıtlara göre şekillenecektir.
+
+### Oyun Mekaniği
+- Yapay zekâ desteğiyle, oyuncular yalnızca önceden belirlenmiş seçeneklerle sınırlı kalmayacaktır.
+- Örnek bir senaryo:
+  > "Bu gece ne yapacaksın?"  
+  **Seçenekler:** Uyu, Odun Topla, Kamp Ateşi Yak  
+  **Alternatif:** Oyuncu, kendi seçimini yazabilir: _"Geceleri ormanda gezintiye çıkmak istiyorum."_
+
+AI, oyuncunun verdiği cevaba uygun olarak yeni bir olay veya tepki oluşturacaktır, bu da senaryoyu daha dinamik ve kişiselleştirilmiş hale getirecektir.
+
+### Genişletilebilirlik
+- Platform, birden fazla oyun türünü barındıracak şekilde tasarlanmıştır.
+- Oyunlar, her biri metin tabanlı, senaryoya dayalı ve AI ile etkileşimli olacak şekilde geliştirilecektir.
+
+### Hedef
+Klasik metin tabanlı oyun deneyimini, daha etkileşimli, sürükleyici ve özgür bir hale getirmek.
+
+### Fikir Sahibi
+Galip Efe Öncü
+
 ---
 
 ## Nasıl Katkı Sağlayabilirsin?
@@ -30,35 +58,3 @@ Kendi proje fikrini aşağıdaki şablon gibi ekle:
 **Hedefler:**
 **Fikir Sahibi:**
 ```
-
-# 🎮 AI Destekli Text-Based Oyun Platformu
-## 📂 Kategori
-
-Yapay Zekâ, Oyun Geliştirme, Metin Tabanlı Oyunlar, Web Tabanlı Uygulamalar
-
-## 💡 Proje Tanımı
-Bu projede **yapay zeka destekli, metin tabanlı bir oyun** geliştiriyoruz. Oyuncular farklı oyun türlerinden birini seçebilecek. Örneğin bir **survival (hayatta kalma)** oyununa girip karşılarına çıkan olaylara tepki verecekler.
-
-## 📝 Oyun Mekaniği
-
-- Yapay zekâ ile çalışacağı için oyuncular sadece hazır seçeneklerle sınırlı kalmayacak.
-- Örnek bir senaryo:
-  > "Bu gece ne yapacaksın?"  
-  **Seçenekler:** Uyu, Odun Topla, Kamp Ateşi Yak  
-  **Alternatif:** Oyuncu kendi cevabını yazabilir: _"Geceleri ormanda gezintiye çıkmak istiyorum"_
-
-AI bu girdiye uygun **yeni bir olay veya tepki** oluşturacak. Böylece oyun senaryosu daha dinamik ve kişiselleştirilebilir olacak.
-
-## 🧩 Genişletilebilirlik
-
-- Aynı platformda birden fazla oyun geliştirilebilir.
-- Hepsi **metin tabanlı**, **senaryoya dayalı** ve **AI ile etkileşimli** olacak.
-
-## 🎯 Hedefimiz
-
-Klasik metin tabanlı oyun deneyimini **daha etkileşimli, sürükleyici ve özgür hale getirmek.**
-
-## 🧠 Fikir Sahibi
-
-Galip Efe Öncü
-
